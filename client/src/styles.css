@@ -1,0 +1,6 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.btns input{
+    margin-right: 5px;
+    margin-bottom: 3 px;
+}
